@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://i.ytimg.com/vi/sxlqsFhTaiM/maxresdefault.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.directions {
+    font-size: 1.05rem
+}
+
+.card-transparent {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2.5rem
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.btn-primary {
+    background-color: rgb(255, 0, 170);
+    border: 2px solid rgb(255, 0, 170);
+}
+
+.btn-success {
+    background-color: rgb(247, 118, 95);
+    border: 2px solid rgb(247, 118, 95);
+ 
+}
+
+.btn-danger {
+    background-color:  rgb(166, 0, 255);
+    border: 2px solid rgb(166, 0, 255);
+}
+
+
+
